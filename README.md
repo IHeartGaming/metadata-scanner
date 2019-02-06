@@ -4,7 +4,7 @@ This JavaScript automatically pulls metadata from folders of audio files that a 
 
 ## Library licenses
 
-# jsmediatags
+### jsmediatags
 
 Copyright (c) 2009 Opera Software ASA BSD License
 
@@ -15,7 +15,7 @@ Copyright (c) 2008 Jacob Seidelin, http://blog.nihilogic.dk/ BSD License
 Copyright (c) 2010 Joshua Kifer BSD License
 
 
-# musicmetadata
+### musicmetadata
 
 (The MIT License)
 
